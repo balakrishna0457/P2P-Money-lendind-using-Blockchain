@@ -214,25 +214,17 @@ npx hardhat test
 ```
 
 See [Testing Guide](TESTING_GUIDE.md) for comprehensive testing procedures.
+## 🛠️ Tech Stack
 
-## 📦 Deployment
+*   **Blockchain:** Solidity, Polygon (MATIC), Hardhat
+*   **Frontend:** React.js, Ethers.js, CSS Modules
+*   **Backend:** Node.js, Express.js
+*   **Database:** MongoDB (Mongoose)
+*   **APIs:** 
+    *   **CoinGecko:** Real-time crypto price feeds
+    *   **Razorpay:** Fiat-to-crypto payment gateway
+    *   **Twilio/Nodemailer:** SMS and Email notifications
 
-### Backend
-- Heroku
-- Railway
-- AWS/DigitalOcean VPS
-
-### Frontend
-- Vercel
-- Netlify
-- AWS S3 + CloudFront
-
-### Smart Contract
-- Ethereum Mainnet
-- Polygon
-- Other EVM chains
-
-See [Deployment Checklist](DEPLOYMENT_CHECKLIST.md) for step-by-step deployment guide.
 
 ## 🤝 Contributing
 
